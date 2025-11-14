@@ -4,8 +4,8 @@ SHOPPER is a modern clothing e-commerce website where users can browse and order
 
 ✅ Features
 
-🔐 Authentication Required
-The entire site is accessible only after login. Users must sign up and log in to access the home page.
+🔐 Authentication Auth0 
+The entire site is accessible. but users can sign up and log in.
 
 👕 Product Categories
 
